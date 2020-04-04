@@ -1,0 +1,83 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributorsSortAlphabetically": true,
+  "contributors": [
+    {
+      "login": "Adem68",
+      "name": "Adem Furkan ÖZCAN",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/21019611?v=4",
+      "profile": "https://adem68.github.io/",
+      "contributions": [
+        "code",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "AliAnilKocak",
+      "name": "Ali Anıl Koçak",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/23120302?v=4",
+      "profile": "https://coolflutter.com",
+      "contributions": [
+        "code",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "mirkancal",
+      "name": "Mirkan Çalışkan",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/26160059?v=4",
+      "profile": "https://soundcloud.com/mirkancal13",
+      "contributions": [
+        "code",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "onatcipli",
+      "name": "Onat Çipli",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/26159899?v=4",
+      "profile": "https://onatcipli.github.io",
+      "contributions": [
+        "code",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "mukireus",
+      "name": "Muhammet ÖMER",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/33984759?v=4",
+      "profile": "https://www.linkedin.com/in/muhammetomer/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "merttoptas",
+      "name": "Mert Toptas",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/24685929?v=4",
+      "profile": "http://merttoptas.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "right7ctrl",
+      "name": "Murat Aslan",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/24523510?v=4",
+      "profile": "https://www.linkedin.com/in/murataslan0/",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "turkish-dictionary",
+  "projectOwner": "flutterturkey",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
